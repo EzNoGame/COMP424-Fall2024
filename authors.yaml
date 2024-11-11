@@ -1,7 +1,3 @@
-- name: "Your full name as appears on your transcript"
-  mcgill_id: "Your mcgill id"
-  email: "email@mail.mcgill.ca"
-
-- name: "Your full name as appears on your transcript"
-  mcgill_id: "Your mcgill id"
-  email: "email@mail.mcgill.ca"
+- name: "Eddie Hong Yi Zhang"
+  mcgill_id: "261073084"
+  email: "eddie.zhang@mail.mcgill.ca"
